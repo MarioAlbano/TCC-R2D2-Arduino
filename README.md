@@ -1,8 +1,39 @@
-# TCC R2D2 Arduino
-## Sobre:
+### Hi there! 👋
 
-Diretório criado para exibição do projeto R2D2 tamanho real em arduino como trabalho de conclusão de curso da universidade paulista na disciplina Ciências da Computação.
+> Directory created to show R2d2 real-size project as a final project at the Universidade Paulista in the discipline of Computer Science.
+<img width="1426" alt="Projeto TCC" src="">
 
-O presente trabalho busca fazer uma análise sobre a ferramenta Arduino, buscando entender o quanto na era da informação em que todas as informações são compartilhadas pela internet ,este utensílio consegue ser útil para criar e desenvolver projetos , principalmente voltando esta questão aos estudantes e aos projetistas amadores que , por mais que queiram criar seus próprios protótipos , não tem muita habilidade técnica com a programação e normalmente não tem grandes fontes de investimentos para que a ideia saia do papel. Para representar essas informações ao leitor , a monografia foi dividida em tópicos , abordando uma introdução explicando do porquê do tema , depois explicando mais detalhadamente conteúdos que envolvem o arduino como a robótica e programação ,passando pela próxima sessão onde explicamos sobre a ferramenta arduino e na próxima detalhando toda a tecnologia que usamos para nosso projeto. Por fim, explicaremos nosso passo a passo do estudo abordando o tema em que o mesmo foi proposto, terminando pela conclusão e referências.
+## What is inside?
 
-Obrigado pela sua visita!
+- APK program
+- Arduino file
+- Documentation
+
+## Getting Started
+
+### Install dependencies:
+
+```bash
+yarn
+```
+
+or
+
+```bash
+npm install
+```
+
+## Structure
+
+```
+└── src
+    ├── documentation
+    ├── program
+```
+
+| Folder              | Description                                      |
+| ----------          | -------------------------------------------      |
+| **documentation**   | Documentation in .pdf                            |
+| **program**         | Program components                               |
+
+<p align="center">Made with 💜 by Mario</p>
