@@ -1,4 +1,3 @@
-```
 ## R2D2 Robot Code
 
 This code is designed to control a robot inspired by R2D2, using an Arduino board and various components such as servo motors, RGB LEDs, and DC motors.
@@ -30,4 +29,3 @@ The following pins are used in the code and are defined in the `setup()` functio
 
 **How to Use**
 To use this code, you will need to connect the various components to the Arduino board according to the pin configuration above. Then, you can upload the code to the board using the Arduino IDE and power the board using a power source. Once powered on, the robot will move forward and backward and its head will move in a sweeping motion.
-```
