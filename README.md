@@ -2,7 +2,10 @@
 
 This code is designed to control a robot inspired by R2D2, using an Arduino board and various components such as servo motors, RGB LEDs, and DC motors.
 
+![Image Portfolio](./img/r2d2-final-photo.jpeg)
+
 **Components Used**
+
 - Servo motor for head movement
 - DC motors for leg movement
 - RGB LED for the head
